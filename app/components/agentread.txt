@@ -1,0 +1,4 @@
+Component Design:
+1. I want my components to be organized, and any component used 3 times should be turned into reusable component. 
+2. This project will have a custom CMS dashboard so make sure components for dynamic data are easy to add. 
+3. The rest is on you.
