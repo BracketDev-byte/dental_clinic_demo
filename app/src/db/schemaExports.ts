@@ -1,2 +1,12 @@
-/// Here import and export all the schema tables from the schema folder ./schemas
-// I like to use different files for each table schema and then export them all from this file for better organization and maintainability.
+export * from './schemas/siteSettings';
+export * from './schemas/treatmentCategories';
+export * from './schemas/treatments';
+export * from './schemas/teamMembers';
+export * from './schemas/reviews';
+export * from './schemas/smileCases';
+export * from './schemas/blogPosts';
+export * from './schemas/appointmentRequests';
+export * from './schemas/contactEnquiries';
+export * from './schemas/clinicStats';
+export * from './schemas/clinicalFaqs';
+export * from './schemas/homepageSections';

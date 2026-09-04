@@ -1,0 +1,6 @@
+{
+  "name": "Pearl Dental & Implant Clinic",
+  "description": "Gentle, honest private dental care in Kampala, Uganda with custom CMS dashboard",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
